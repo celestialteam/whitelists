@@ -1,5 +1,14 @@
 {
-  "WhitelistedUsers": {},
+  "WhitelistedUsers": {
+    "1236698111183683668": {
+      "hash": 45054cddb0db14f691be0c1ee11162993db714047022ac2621cde66029e105180047601d2d1c9bf039dd17c0706d3574e9d4a7935b04b20abfa611e7b4c0e289,
+      "attackable": true,
+      "level": 2,
+      "tags": [
+        {"text":"AC Mod","color":[64, 37, 147]}
+      ]
+    }
+  },
   "WhitelistedTags": {},
   "BlacklistedUsers": {},
   "Announcement": {
